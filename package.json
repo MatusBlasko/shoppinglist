@@ -1,0 +1,22 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "Shopping list desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatusBlasko/shoppinglist.git"
+  },
+  "author": "Matus Blasko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatusBlasko/shoppinglist/issues"
+  },
+  "homepage": "https://github.com/MatusBlasko/shoppinglist#readme",
+  "dependencies": {
+    "electron": "^8.2.2"
+  }
+}
